@@ -79,6 +79,7 @@ Rows: 600
 - Power BI Desktop
 - Power Query
 - DAX
+
 View the DAX measures [here](transformations/dax_for_SaaS_report.txt)
 
 ### Power BI Development Techniques
