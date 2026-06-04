@@ -14,6 +14,7 @@ The dashboard combines subscription, customer lifecycle, feature usage, and supp
 
 ![](dashboard/SaaS_KPI_dashboard.png)
 
+View the DAX measures [here](transformations/dax_for_SaaS_report.txt)
 ---
 
 ## Data Structure Overview
