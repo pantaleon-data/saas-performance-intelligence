@@ -15,8 +15,6 @@ The dashboard combines subscription, customer lifecycle, feature usage, and supp
 ![](dashboard/SaaS_KPI_dashboard.png)
 
 ---
-View the DAX measures [here](transformations/dax_for_SaaS_report.txt)
----
 
 ## Data Structure Overview
 
@@ -50,6 +48,8 @@ Rows: 5,000
 ### fact_feature_usage
 Tracks customer engagement and platform usage activity.
 
+Rows: 25,000
+
 ### fact_support_tickets
 Captures support operations including:
 
@@ -57,6 +57,8 @@ Captures support operations including:
 - Resolution times
 - Escalation activity
 - Customer satisfaction scores
+
+Rows: 2,000
 
 ### fact_churn_events
 Stores churn-related events including:
@@ -77,6 +79,7 @@ Rows: 600
 - Power BI Desktop
 - Power Query
 - DAX
+View the DAX measures [here](transformations/dax_for_SaaS_report.txt)
 
 ### Power BI Development Techniques
 
