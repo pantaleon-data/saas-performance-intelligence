@@ -70,7 +70,7 @@ Stores churn-related events including:
 
 Rows: 600
 
-### Disconnected Tables
+### Model Support Tables
 
 #### KPI Selector: disconnected table used to switch between KPI measures dynamically.
 
