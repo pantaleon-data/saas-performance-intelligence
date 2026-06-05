@@ -13,7 +13,7 @@ The dashboard combines subscription, customer lifecycle, feature usage, and supp
 ## Dashboard Preview
 
 ![](dashboard/SaaS_KPI_dashboard.png)
-
+Explore the Dashoard [here](dashboard/SaaS_report.pbix)
 ---
 
 ## Data Structure Overview
@@ -109,7 +109,7 @@ Rows: 600
 - Power Query
 - DAX
 
-View the DAX measures [here](transformations/dax_for_SaaS_report.txt)
+View the DAX measures [here](transformations/dax_SaaS_report.txt)
 
 ### Power BI Development Techniques
 
