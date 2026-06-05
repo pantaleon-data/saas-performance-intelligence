@@ -70,6 +70,35 @@ Stores churn-related events including:
 
 Rows: 600
 
+### Disconnected Tables
+
+#### KPI Selector: disconnected table used to switch between KPI measures dynamically.
+
+| KPI | Description |
+|---|---|
+| Revenue | Percentage increase in subscription revenue over time |
+| Subscription Growth | Rate of increase in subscription over time |
+| Churn Rate | Percentage of customers lost during a period |
+| Retention Rate | Percentage of customers retained over time |
+| Feature Adoption | Percentage of customers actively using the platform features |
+| Auto Renew Adoption | Percentage of subscriptions enrolled in auto-renewal |
+| Ticket Resolution SLA | Percentage of tickets resolved within SLA target |
+| Escalation Rate | Percentage of support tickets escalated for further handling |
+| First Response SLA | Percentage of tickets receiving first response within SLA |
+
+#### KPI Targets: disconnected table storing goal, mid, and red thresholds used for conditional formatting.
+
+| KPI | Good Threshold | Mid Threshold | Red Threshold | Goal Value |
+|---|---:|---:|---:|---:|
+| Revenue Growth Rate | 0.15 | 0.09 | 0.04 | 0.15 |
+| Auto Renew Adoption | 0.80 | 0.69 | 0.49 | 0.80 |
+| Subscription Growth | 0.12 | 0.09 | 0.04 | 0.12 |
+| Upgrade Adoption Rate | 0.15 | 0.09 | 0.04 | 0.15 |
+| Retention Rate | 0.90 | 0.69 | 0.49 | 0.90 |
+| Ticket Resolution SLA | 0.85 | 0.69 | 0.49 | 0.85 |
+| Feature Adoption | 0.75 | 0.69 | 0.49 | 0.75 |
+| Reactivation Rate | 0.20 | 0.14 | 0.09 | 0.20 |
+| First Response SLA | 0.90 | 0.69 | 0.49 | 0.90 |
 ---
 
 ## Technical Stack
