@@ -13,6 +13,7 @@ The dashboard combines subscription, customer lifecycle, feature usage, and supp
 ## Dashboard Preview
 
 ![](dashboard/SaaS_KPI_dashboard.png)
+
 Explore the Dashoard [here](dashboard/SaaS_report.pbix)
 ---
 
