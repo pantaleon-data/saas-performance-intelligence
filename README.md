@@ -1,4 +1,4 @@
-# SaaS-Performance-Intelligence
+# SaaS Performance Intelligence
 
 ## Background & Overview
 
